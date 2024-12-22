@@ -12,7 +12,7 @@
 (   /fly , /nick , /kit   ) <br>
 ✨ -  Iron <br>
 (   /kit , /nick   ) <br>
-🍃 - **Grave**<br>
+🍃 -  Grave <br>
 (   /kit , /nick   ) <br>
 <hr>
 </strong>
