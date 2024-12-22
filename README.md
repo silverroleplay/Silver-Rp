@@ -1,7 +1,7 @@
 # Silver Roleplay ( Rank Perm ) 
 
 <strong>
-  
+  <hr>
 🥇 - **Silver** <br>
 ( ** /fly , /nick , /kit ** ) <br>
 🥈 - **Diamond** <br>
@@ -14,12 +14,5 @@
 ( ** /kit , /nick ** ) <br>
 🍃 - **Grave**<br>
 ( ** /kit , /nick ** ) <br>
-
+<hr>
 </strong>
-
-<style>
-  body
-  {
-    background-color:red;
-  }
-</style>
